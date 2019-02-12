@@ -17,3 +17,11 @@ li {
 .form-group {
   margin-bottom: 5px;
 }
+
+.title {
+  align-content: center;
+}
+
+#main {
+  margin-top: 50px;
+}
